@@ -5,3 +5,4 @@
 5.Disable NeverHibernate and enable HibernationFixup
 6.exec "sudo pmset -a hibernatemode 0"
 7.use the Kext Utility rebuild caches
+8.reboot the computer
